@@ -1,4 +1,3 @@
-layout_spectrum: 0.8403503810986876
 typography_spectrum: 0.5750586951617151
 color:
   brandStrength: 0.5266353548504412
@@ -6,9 +5,11 @@ color:
   saturation: 0.3851809985935688
   rhythmicContrast: 0.8171670252922922
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.8403503810986876
 name: IhrigTestSite
+title: IHRIG MD+
